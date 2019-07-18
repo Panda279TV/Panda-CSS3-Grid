@@ -1,5 +1,5 @@
 # Pandas CSS3 Grid System
-#### I have tried many grid systems or grid frameworks. Many were too big or too confusing. That's exactly why I wrote my own CSS Grid. It is minimalistic, super simple and has only the most important functions. 
+### I have tried many grid systems or grid frameworks. Many were too big or too confusing. That's exactly why I wrote my own CSS Grid. It is minimalistic, super simple and has only the most important functions. 
 
 ---
 
@@ -12,16 +12,18 @@
 - No CSS `!Important`
 - Only about 2200 bytes
 
-https://htmlpreview.github.io/?https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/panda-grid-test.html
+[HTML Test Datei](https://htmlpreview.github.io/?https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/panda-grid-test.html) 
+
+If the link doesn't work, please download the HTML and the CSS file yourself and have a look at my selfmade show example!
 
 ---
 
 ## Introduction
 12 Columns
 
-My standard grid has 12 columns. No matter the size of the browser, each of these columns will always have an equal width.
+My grid has 12 columns. No matter the size of the browser, each of these columns will always have an equal width.
 
-1 Column is width: 8.333333333333333% and 12 Column is width: 100%
+Each column is width: 8.3333333333333333333%, that result then times 12 gives the width: 100%.
 
     <div class="row">
       <div class="col s-1">1</div>
@@ -41,7 +43,7 @@ My standard grid has 12 columns. No matter the size of the browser, each of thes
 ---
 
 ## Container
-The container class is not strictly part of the grid but is important in laying out content. It allows you to center your page content. The container class is set to 70%-90% of the window width. It helps you center and contain your page content. I use the container to contain my body content.
+The container class is not strictly part of the grid but is important in laying out content. It allows you to center your page content. The container class is set to 70% of the window width (responsive 70% to 90%). It helps you center and contain your page content. I use the container to contain my body content.
 
 To add a container just put your content inside a <div> tag with a container class. Here's an example of how your page might be set up.
   
@@ -53,7 +55,6 @@ To add a container just put your content inside a <div> tag with a container cla
 
 ## Responsive Layouts
 Above i showed you how to layout elements using my grid system. Now i show you how to design your layouts so that they look great on all screen sizes.
-
 
 Screen Sizes
 
