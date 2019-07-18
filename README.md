@@ -6,6 +6,8 @@
 
 ![](pandas-grid-demo.gif)
 
+The demo shows the HTML file. You can download this and the CSS and have a look at it again.
+
 ---
 
 ## Statistics
@@ -16,10 +18,6 @@
 - Very good and practical padding distances
 - No CSS `!Important`
 - Only about 2200 bytes
-
-[HTML Test Datei](https://htmlpreview.github.io/?https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/panda-grid-test.html) 
-
-If the link doesn't work, please download the HTML and the CSS file yourself and have a look at my selfmade show example!
 
 ---
 
