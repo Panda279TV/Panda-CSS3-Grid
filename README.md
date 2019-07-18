@@ -4,6 +4,8 @@
 ---
 ## Demo
 
+[Link](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid-demo.gif)
+
 ![](pandas-grid-demo.gif)
 
 The demo shows the HTML file. You can download this and the CSS and have a look at it again.
