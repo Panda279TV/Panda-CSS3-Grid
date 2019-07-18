@@ -68,4 +68,3 @@ Adding Responsiveness
 In the previous examples, i only defined the size for small screens using "col s-12". This is fine if i want a fixed layout since the rules propagate upwards. By just saying s-12, we are essentially saying "col s-12 m-12 l-12". But by explicitly defining the size we can make our website more responsive.
 
 ---
-
