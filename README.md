@@ -2,6 +2,11 @@
 ### I have tried many grid systems or grid frameworks. Many were too big or too confusing. That's exactly why I wrote my own CSS Grid. It is minimalistic, super simple and has only the most important functions. 
 
 ---
+## Demo
+
+![](pandas-grid-demo.gif)
+
+---
 
 ## Statistics
 - Minimalistic
