@@ -24,8 +24,6 @@ The demo shows the HTML file. You can download this and the CSS and have a look 
 ---
 
 ## Introduction
-12 Columns
-
 My grid has 12 columns. No matter the size of the browser, each of these columns will always have an equal width.
 
 Each column is width: 8.3333333333333333333%, that result then times 12 gives the width: 100%.
@@ -72,6 +70,6 @@ Screen Sizes
 | Container Width | 90% | 83% | 76% | 70% |
 
 Adding Responsiveness
-In the previous examples, i only defined the size for small screens using "col s-12". This is fine if i want a fixed layout since the rules propagate upwards. By just saying s-12, we are essentially saying "col s-12 m-12 l-12". But by explicitly defining the size we can make our website more responsive.
+In the previous examples, i only defined the size for small screens using "col s-12". This is fine if i want a fixed layout since the rules propagate upwards. By just saying s-12, we are essentially saying "col s-12 m-12 l-12 xl-12". But by explicitly defining the size we can make our website more responsive.
 
 ---
