@@ -2,6 +2,7 @@
 ### I have tried many grid systems or grid frameworks. Many were too big or too confusing. That's exactly why I wrote my own CSS Grid. It is minimalistic, super simple and has only the most important functions. 
 
 ---
+
 ## Demo
 
 [Link](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid-demo.gif)
@@ -9,6 +10,12 @@
 ![](pandas-grid-demo.gif)
 
 The demo shows the HTML file. You can download this and the CSS and have a look at it again.
+
+---
+
+## To use this grid, you just have to include the following link in the CSS. Link the author!
+Copyright (c) 2019 Benedikt Wolf
+https://github.com/Panda279TV
 
 ---
 
