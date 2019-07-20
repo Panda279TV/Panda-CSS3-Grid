@@ -50,7 +50,7 @@ Each column is width: 8.3333333333333333333%, that result then times 12 gives th
 ## Container
 The container class is not strictly part of the grid but is important in laying out content. It allows you to center your page content. The container class is set to 70% of the window width (responsive 70% to 90%). It helps you center and contain your page content. I use the container to contain my body content.
 
-To add a container just put your content inside a <div> tag with a container class. Here's an example of how your page might be set up.
+To add a container just put your content inside a `<div>` tag with a container class. Here's an example of how your page might be set up.
   
     <div class="container">
       <!-- Page Content goes here -->
