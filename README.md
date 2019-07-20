@@ -28,7 +28,7 @@ My grid has 12 columns. No matter the size of the browser, each of these columns
 
 Each column is width: 8.3333333333333333333%, that result then times 12 gives the width: 100%.
 
-In order to use the grid correctly, a row must be around a column.
+#### In order to use the grid correctly, a row must be around a column.
 
     <div class="row">
       <div class="col s-1">1</div>
