@@ -1,21 +1,21 @@
 # Pandas CSS3 Grid System
 ### I have tried many grid systems or grid frameworks. Many were too big or too confusing. That's exactly why I wrote my own CSS Grid. It is minimalistic, super simple and has only the most important functions. 
 
+### To use this grid, you just have to include the following link in the CSS. Link the author!
+
+Example:
+
+Copyright (c) 2019 Benedikt Wolf https://github.com/Panda279TV
+
+`<link rel="stylesheet" href="panda-grid.css">`
+
 ---
 
 ## Demo
 
-[Link](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid-demo.gif)
-
 ![](pandas-grid-demo.gif)
 
-The demo shows the HTML file. You can download this and the CSS and have a look at it again.
-
----
-
-## To use this grid, you just have to include the following link in the CSS. Link the author!
-Copyright (c) 2019 Benedikt Wolf
-https://github.com/Panda279TV
+The demo shows the [HTML file](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid-demo.gif). You can download this and the CSS and have a look at it again.
 
 ---
 
@@ -23,6 +23,7 @@ https://github.com/Panda279TV
 - Minimalistic
 - Small
 - Simple
+- Easy and fast to learn
 - Normal or Responsive Grid
 - Very good and practical padding distances
 - No CSS `!Important`
@@ -30,7 +31,20 @@ https://github.com/Panda279TV
 
 ---
 
+## First Step
+
+#### The Media Queries Grid will only work if this line has been included in the Head Tag of the HTML Structure! The meta name="viewport".
+
+The class s- works without media queries to create an important prerequisite. The other m-, l-, xl- work with media queries and therefore you have to integrate the Meta Viewport. Otherwise you couldn't write any media queries yourself!
+
+`<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">`
+
+[Learn more about Media Queries!](https://github.com/Panda279TV/CSS3-Media-Queries)
+
+---
+
 ## Introduction
+
 My grid has 12 columns. No matter the size of the browser, each of these columns will always have an equal width.
 
 Each column is width: 8.3333333333333333333%, that result then times 12 gives the width: 100%.
