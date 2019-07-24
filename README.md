@@ -20,12 +20,10 @@ The [demo](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid
 ---
 
 ## Statistics
-- Minimalistic
-- Small
-- Simple
-- Easy and fast to learn
+- Minimalistic and Small
+- Simple, Easy and fast to learn
 - Normal or Responsive Grid
-- All distances set to 0 (Margin and Padding 0 PX)
+- All distances set to 0PX (Margin and Padding 0 PX)
 - Very good and practical grid padding distances
 - No CSS `!Important`
 - Only about 2200 bytes
