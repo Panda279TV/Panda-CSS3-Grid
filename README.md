@@ -15,7 +15,7 @@ Copyright (c) 2019 Benedikt Wolf https://github.com/Panda279TV
 
 ![](pandas-grid-demo.gif)
 
-The demo shows the [HTML file](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid-demo.gif). You can download this and the CSS and have a look at it again.
+The [demo](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid-demo.gif) shows the [HTML file](https://github.com/Panda279TV/Pandas-CSS3-Grid/blob/master/pandas-grid-test.html). You can download this and the CSS and have a look at it again.
 
 ---
 
