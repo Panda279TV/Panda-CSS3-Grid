@@ -34,7 +34,7 @@ The [demo](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid
 
 #### The Media Queries Grid will only work if this line has been included in the Head Tag of the HTML Structure! The meta name="viewport".
 
-The class s- works without media queries to create an important prerequisite. The other m-, l-, xl- work with media queries and therefore you have to integrate the Meta Viewport. Otherwise you couldn't write any media queries yourself!
+The class s- works without media queries to create an important prerequisite. The other m-, l-, xl- work only with media queries and therefore you have to integrate the Meta Viewport. Otherwise you couldn't write any media queries yourself!
 
 `<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">`
 
