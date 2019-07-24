@@ -25,8 +25,8 @@ The demo shows the [HTML file](https://github.com/Panda279TV/Panda-CSS3-Grid/blo
 - Simple
 - Easy and fast to learn
 - Normal or Responsive Grid
-- Very good and practical padding distances
 - All distances set to 0 (Margin and Padding 0 PX)
+- Very good and practical grid padding distances
 - No CSS `!Important`
 - Only about 2200 bytes
 
