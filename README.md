@@ -26,7 +26,7 @@ The [demo](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid
 - All distances set to 0PX (Margin and Padding 0 PX)
 - Very good and practical grid padding distances
 - No CSS `!Important`
-- Only about 2200 bytes
+- Only about 2200 kilobytes
 
 ---
 
