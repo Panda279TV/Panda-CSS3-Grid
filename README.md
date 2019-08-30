@@ -15,7 +15,7 @@ Example:
 
 ![](pandas-grid-demo.gif)
 
-The [demo](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid-demo.gif) shows the [HTML file](https://github.com/Panda279TV/Pandas-CSS3-Grid/blob/master/pandas-grid-test.html). You can download this and the CSS and have a look at it again.
+The [DEMO](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid-demo.gif) shows the [HTML FILE](https://github.com/Panda279TV/Pandas-CSS3-Grid/blob/master/pandas-grid-test.html). You can download this and the CSS and have a look at it again.
 
 ---
 
@@ -23,8 +23,7 @@ The [demo](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid
 - Minimalistic and Small
 - Simple, Easy and fast to learn
 - Normal or Responsive Grid
-- All distances set to 0PX (Margin and Padding 0 PX)
-- Very good and practical grid padding distances
+- Very good and practical grid padding distances (col = padding 1%)
 - No CSS `!Important`
 - Only about 2200 kilobytes (pandas-grid.min.css)
 
