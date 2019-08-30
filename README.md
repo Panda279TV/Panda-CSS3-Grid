@@ -7,7 +7,7 @@ Example:
 
 `<!-- Copyright (c) 2019 Benedikt Wolf https://github.com/Panda279TV -->`
 
-`<link rel="stylesheet" href="panda-grid.css">`
+`<link rel="stylesheet" href="pandas-grid.css">`
 
 ---
 
