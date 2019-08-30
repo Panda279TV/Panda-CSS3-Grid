@@ -1,7 +1,7 @@
 # Pandas CSS3 Grid System
 ### I have tried many grid systems or grid frameworks. Many were too big or too confusing. That's exactly why I wrote my own CSS Grid. It is minimalistic, super simple and has only the most important functions. 
 
-### To use this grid, you just have to include the following link in the CSS. Link the author!
+### To use this grid, you just have to include the following link in the Head Tag. Link the Author!
 
 Example:
 
@@ -43,7 +43,7 @@ The class s- works without media queries to create an important prerequisite. Th
 
 ## Introduction
 
-My grid has 12 columns. No matter the size of the browser, each of these columns will always have an equal width.
+My Grid has 12 columns. No matter the size of the browser, each of these columns will always have an equal width.
 
 Each column is width: 8.3333333333333333333%, that result then times 12 gives the width: 100%.
 
@@ -83,7 +83,7 @@ Above i showed you how to layout elements using my grid system. Now i show you h
 Screen Sizes
 
 | Table | Mobile Devices <= 600px | Tablet Devices > 601px | Desktop Devices > 992px | Large Desktop Devices > 1281px |
-|:-----|:----:|:-----:|:-----:|:-----:|
+|:------|:-----:|:------:|:------:|:------:|
 | Class Prefix | .s- | .m- | .l- | .xl- |
 | Number of Columns | 12 | 12 | 12 | 12 |
 | Container Width | 90% | 83% | 76% | 70% |
