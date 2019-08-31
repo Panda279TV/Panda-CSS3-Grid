@@ -87,11 +87,11 @@ Above i showed you how to layout elements using my grid system. Now i show you h
 
 Screen Sizes
 
-| Table | Mobile Devices <= 600px | Tablet Devices > 601px | Desktop Devices > 992px | Large Desktop Devices > 1281px |
+| Table       | Mobile Devices <= 600px | Tablet Devices > 601px | Desktop Devices > 992px | Large Desktop Devices > 1281px |
 |:------|:------:|:------:|:------:|:------:|
-| Class Prefix | .s- | .m- | .l- | .xl- |
-| Number of Columns | 12 | 12 | 12 | 12 |
-| Container Width | 90% | 83% | 76% | 70% |
+| **Class Prefix** | .s- | .m- | .l- | .xl- |
+| **Number of Columns** | 12 | 12 | 12 | 12 |
+| **Container Width** | 90% | 83% | 76% | 70% |
 
 Adding Responsiveness
 In the previous examples, i only defined the size for small screens using "col s-12". This is fine if i want a fixed layout since the rules propagate upwards.
