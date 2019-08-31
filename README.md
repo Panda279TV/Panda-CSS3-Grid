@@ -27,7 +27,7 @@ The [DEMO](https://github.com/Panda279TV/Panda-CSS3-Grid/blob/master/pandas-grid
 - Normal or Responsive Grid
 - Very good and practical grid Padding distances (row = padding: 1% 2%;) (col = padding: 1%;)
 - No CSS `!Important`
-- Only about 2200 kilobytes (pandas-grid.min.css)
+- Only about 2.200 kilobytes (pandas-grid.min.css)
 - Works with older browsers (-webkit, -moz, -ms)
 
 ---
