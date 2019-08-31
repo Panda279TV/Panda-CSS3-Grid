@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+    <title>Pandas Grid Test</title>
+    <!-- Copyright (c) 2019 Benedikt Wolf https://github.com/Panda279TV -->
+    <link rel="stylesheet" href="pandas-grid.min.css">
+    <!-- <link rel="stylesheet" href="YOUR.CSS.FILE"> -->
+    <style>
+        *, html{
+            margin: 0px;
+            padding: 0px;
+        }
+        main{
+            text-align: center;
+            padding: 20px 0px;
+        }
+        .row{
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+        .red{
+            border: 1px solid red;
+        }
+        .blue{
+            border: 1px solid blue;
+        }
+        .green{
+            border: 1px solid green;
+        }
+        .test{
+            height: 200px;
+        }
+    </style>
+</head>
+<body>
+<main>
+    <div class="row">
+        <div class="col s-12 m-4 l-4 xl-4 red">
+            <h1>col s-12 m-4 l-4 xl-4</h1>
+        </div>
+        <div class="col s-12 m-4 l-4 xl-4 blue">
+            <h1>col s-12 m-4 l-4 xl-4</h1>
+        </div>
+        <div class="col s-12 m-4 l-4 xl-4 green">
+            <h1>col s-12 m-4 l-4 xl-4</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="container">
+            <div class="col s-12 red">
+                <h1>container col s-12</h1>
+            </div>
+            <div class="col s-6 m-6 blue">
+                <h1>col s-6 m-6</h1>
+            </div>
+            <div class="col s-6 green">
+                <h1>col s-6</h1>
+            </div>
+        </div>
+        <div class="col s-6 m-6 blue">
+            <h1>col s-6 m-6</h1>
+        </div>
+        <div class="col s-6 m-6 l-6 green">
+            <h1>col s-6 m-6 l-6</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col s-12 m-6 l-3 xl-3 red">
+            <h1>col s-12 m-6 l-3 xl-3</h1>
+        </div>
+        <div class="col s-12 m-6 l-3 xl-3 blue">
+            <h1>col s-12 m-6 l-3 xl-3</h1>
+        </div>
+        <div class="col s-12 m-6 l-3 xl-3 green">
+            <h1>col s-12 m-6 l-3 xl-3</h1>
+        </div>
+        <div class="col s-12 m-6 l-3 xl-3 red">
+            <h1>col s-12 m-6 l-3 xl-3</h1>
+        </div>
+    </div>
+    <div class="container blue test">
+        <h1>container</h1>
+    </div>
+</main>
+</body>
+</html>
